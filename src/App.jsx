@@ -9,3 +9,12 @@ import Register from "./pages/Register";
 function App() {
   return (
     // <Home />
+    // <ProductList />
+    // <Product />
+    // <Register />
+    // <Login />
+    <Cart />
+  );
+}
+
+export default App;
