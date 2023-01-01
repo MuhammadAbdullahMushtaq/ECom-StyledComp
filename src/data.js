@@ -51,7 +51,7 @@ export const popularProducts = [
     },
     {
         id:3,
-        img:"https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+        img:"https://static-01.daraz.pk/p/5936a1d46f92a49dc4b7b7a630e28b9d.jpg",
     },
     {
         id:4,
